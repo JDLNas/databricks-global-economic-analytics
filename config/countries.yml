@@ -2,3 +2,67 @@ countries:
   - code: "BRA"
     name: "Brazil"
     region: "Latin America & Caribbean"
+
+  - code: "ARG"
+    name: "Argentina"
+    region: "Latin America & Caribbean"
+
+  - code: "CHL"
+    name: "Chile"
+    region: "Latin America & Caribbean"
+
+  - code: "MEX"
+    name: "Mexico"
+    region: "Latin America & Caribbean"
+
+  - code: "COL"
+    name: "Colombia"
+    region: "Latin America & Caribbean"
+
+  - code: "USA"
+    name: "United States"
+    region: "North America"
+
+  - code: "CAN"
+    name: "Canada"
+    region: "North America"
+
+  - code: "DEU"
+    name: "Germany"
+    region: "Europe & Central Asia"
+
+  - code: "FRA"
+    name: "France"
+    region: "Europe & Central Asia"
+
+  - code: "GBR"
+    name: "United Kingdom"
+    region: "Europe & Central Asia"
+
+  - code: "PRT"
+    name: "Portugal"
+    region: "Europe & Central Asia"
+
+  - code: "CHN"
+    name: "China"
+    region: "East Asia & Pacific"
+
+  - code: "JPN"
+    name: "Japan"
+    region: "East Asia & Pacific"
+
+  - code: "IND"
+    name: "India"
+    region: "South Asia"
+
+  - code: "KOR"
+    name: "Korea, Rep."
+    region: "East Asia & Pacific"
+
+  - code: "ZAF"
+    name: "South Africa"
+    region: "Sub-Saharan Africa"
+
+  - code: "NGA"
+    name: "Nigeria"
+    region: "Sub-Saharan Africa"
