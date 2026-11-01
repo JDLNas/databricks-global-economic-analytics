@@ -3,4 +3,54 @@ indicators:
     name: "GDP (current US$)"
     column_name: "gdp_current_usd"
     description: "Produto Interno Bruto em dólares correntes."
-    
+
+  - code: "NY.GDP.PCAP.CD"
+    name: "GDP per capita (current US$)"
+    column_name: "gdp_per_capita_usd"
+    description: "Produto Interno Bruto por habitante em dólares correntes."
+
+  - code: "NY.GDP.MKTP.KD.ZG"
+    name: "GDP growth (annual %)"
+    column_name: "gdp_growth_pct"
+    description: "Taxa anual de crescimento real do Produto Interno Bruto."
+
+  - code: "FP.CPI.TOTL.ZG"
+    name: "Inflation, consumer prices (annual %)"
+    column_name: "inflation_consumer_pct"
+    description: "Variação anual dos preços ao consumidor."
+
+  - code: "SL.UEM.TOTL.ZS"
+    name: "Unemployment, total (% of total labor force)"
+    column_name: "unemployment_pct"
+    description: "Percentual da força de trabalho total que está desempregada."
+
+  - code: "NE.EXP.GNFS.ZS"
+    name: "Exports of goods and services (% of GDP)"
+    column_name: "exports_gdp_pct"
+    description: "Exportações de bens e serviços como percentual do Produto Interno Bruto."
+
+  - code: "NE.IMP.GNFS.ZS"
+    name: "Imports of goods and services (% of GDP)"
+    column_name: "imports_gdp_pct"
+    description: "Importações de bens e serviços como percentual do Produto Interno Bruto."
+
+  - code: "NE.TRD.GNFS.ZS"
+    name: "Trade (% of GDP)"
+    column_name: "trade_gdp_pct"
+    description: "Soma das exportações e importações de bens e serviços como percentual do Produto Interno Bruto."
+
+  - code: "BX.KLT.DINV.WD.GD.ZS"
+    name: "Foreign direct investment, net inflows (% of GDP)"
+    column_name: "foreign_direct_investment_gdp_pct"
+    description: "Entrada líquida de investimento estrangeiro direto como percentual do Produto Interno Bruto."
+
+  - code: "GC.DOD.TOTL.GD.ZS"
+    name: "Central government debt, total (% of GDP)"
+    column_name: "central_government_debt_gdp_pct"
+    description: "Dívida total do governo central como percentual do Produto Interno Bruto."
+
+  - code: "SP.POP.TOTL"
+    name: "Population, total"
+    column_name: "population_total"
+    description: "População total do país."
+
