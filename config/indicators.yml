@@ -1,0 +1,6 @@
+indicators:
+  - code: "NY.GDP.MKTP.CD"
+    name: "GDP (current US$)"
+    column_name: "gdp_current_usd"
+    description: "Produto Interno Bruto em dólares correntes."
+    
